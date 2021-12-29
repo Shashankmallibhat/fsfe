@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shashankmallibhat/fsfe/issues"
   },
-  "homepage": "https://github.com/Shashankmallibhat/fsfe#readme"
+  "homepage": "https://github.com/Shashankmallibhat/fsfe#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
